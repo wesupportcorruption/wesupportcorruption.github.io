@@ -21,3 +21,6 @@ grid-column-gap: 10px;
 grid-row-gap: 10px;
 }
 
+.list1 { grid-area: 1 / 2 / 2 / 3; }
+
+.list2 { grid-area: 1 / 1 / 2 / 2; } 
